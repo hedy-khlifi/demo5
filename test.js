@@ -1,0 +1,1 @@
+const str = "manifest time and gain it";
