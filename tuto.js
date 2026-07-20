@@ -1,0 +1,1 @@
+const manifest = 'trust allah  , trust the process';
