@@ -1,2 +1,2 @@
 const arr = [1, 2];
-const str= 'this is a'
+const writing = "you must write and belive and u will be  inshallah";
