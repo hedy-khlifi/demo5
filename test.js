@@ -1,1 +1,1 @@
-const str = "manifest time and gain it";
+const str = "manifest time and gain it inshall";
