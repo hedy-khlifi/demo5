@@ -1,2 +1,3 @@
 const arr = [1, 2];
 const writing = "you must write and belive and u will be  inshallah";
+const notme= "i aint"
