@@ -1,2 +1,2 @@
 const pros = "process"
-const cons = "new"
+const cons = "new bit"
