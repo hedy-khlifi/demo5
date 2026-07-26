@@ -1,0 +1,1 @@
+const special = "this is special";
